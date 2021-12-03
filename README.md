@@ -1,4 +1,4 @@
-## :mortar_board: [Stepik Academy](https://stepik.org/org/stepikteam/) Автоматизация тестирования на Python
+
 
 
 Запуск тестов выполняется в командной строке:
